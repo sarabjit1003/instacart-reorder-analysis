@@ -7,8 +7,6 @@ keeping existing ones coming back. Reorder behaviour is the clearest
 signal of customer loyalty — when someone buys the same product again,
 it means the last experience was good enough to repeat.
 
-This project answers one central question a retention or product team
-would actually ask:
 
 > **What drives a customer to reorder  and what gets in the way?**
 
@@ -32,11 +30,6 @@ would actually ask:
 - **Python + pandas** — data loading, multi-table joins, aggregation
 - **Kaggle Notebooks** — cloud compute, no local setup required
 - **GitHub** — version control and portfolio documentation
-
-The approach mirrors real analyst work: start with a business question,
-join the tables needed to answer it, produce a number, interpret it in
-plain English, and recommend a specific action.
-
 
 ### Q1 — What is the baseline reorder rate?
 
